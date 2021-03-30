@@ -1,0 +1,11 @@
+About the code
+=================
+
+This program implements the relationship between a shopper, a shopping cart 
+and the checkout clerk
+
+The Shopper has a shopping list called StufftoBuy. In the main program (CH10Q2.cpp)
+the shopping list is opened and the item name, price and required quantity are read 
+and placed in the cart. The checkout clerk scans the item, reports their names and
+price then applies a 5% sales tax to the total. The shopper pays and writes the 
+amount of money in his wallet before and after the shopping experience. 
